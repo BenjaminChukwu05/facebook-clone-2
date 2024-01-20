@@ -40,14 +40,14 @@ export default function CreatePost() {
             alt=""
           />
           <span className="createPostUsername">
-            <b>Bhabishya Ghimire</b>
+            <b>Chukwu Benjmain Chukwuebuka</b>
           </span>
         </div>
         <div className="createPostInputCont">
           <input
             ref={ref}
             type="text"
-            placeholder="What's on your mind,Bhabishya?"
+            placeholder="What's on your mind,Benjamin?"
             className="createPostInput"
           />
         </div>

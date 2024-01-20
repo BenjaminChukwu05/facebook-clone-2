@@ -38,7 +38,7 @@ function Profile() {
                 />
               </div>
               <h4 className="profileUsername">
-                Bhabishya Ghimire{" "}
+                Chukwu Benjmain Chukwuebuka{" "}
                 <p style={{ fontSize: "16px", margin: "0", opacity: "0.5" }}>
                   209 friends
                 </p>
@@ -56,10 +56,10 @@ function Profile() {
              `             
      🎉🎉W€|©°m€❤🎉🎉
   😊😊
-   ♥[Cricket Lover]♥
+   ♥[Anime Lover]♥
    
-     🆈🆃🅱 🅻🅸🅽🅺:-
-https://www.youtube.com/c/FutureTechnical88
+     Instagram Link:-
+     https://www.instagram.com/_.a.buka/?hl=en
              `
                 }
               </pre>
